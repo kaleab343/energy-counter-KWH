@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">መላ</string>
+    <string name="search_property">መረጃ ፈልግ</string>
+    <string name="enter_block">ለፍለጋ ብሎክ እና የቤት ቁጥር ያስገቡ</string>
+    <string name="block_house_number">ብሎክ/የቤት ቁጥር</string>
+    <string name="search_results">የፍለጋ ውጤቶች</string>
+    <string name="payment">ክፍያ</string>
+    <string name="required">ያስፈልጋል</string>
+    <string name="no_records_found">መዝገቦች አልተገኙም</string>
+    <string name="switch_language">ቋንቋ ቀይር</string>
+    <string name="history">ታሪክ</string>
+    <string name="block_management">የብሎክ አስተዳደር</string>
+    <string name="property_information">የመብራት መረጃ</string>
+    <string name="count">ፍጆታ</string>
+    <string name="tarif">ታሪፍ</string>
+    <string name="vat_percentage">ቫት(%)</string>
+    <string name="additional_payments_birr">ተጨማሪ ክፍያዎች (ብር)</string>
+    <string name="clear">አጥፋ</string>
+    <string name="submit">አስገባ</string>
+    <string name="block_must_start">ብሎክ/ቤት ቁጥር ከ 355/ መጀመር አለበት</string>
+    <string name="block_range_error">ቁጥሩ ከ01 እስከ 66 መካከል መሆን አለበት</string>
+
+
+    <!-- New strings for popup menu & download icon -->
+    <string name="download_pdf">ፒዲኤፍ አውርድ</string>
+    <string name="menu_all">የሁሉም መረጃ</string>
+    <string name="menu_day">የቀን መረጃ</string>
+    <string name="menu_week">የሳምንት መረጃ</string>
+    <string name="menu_month">የወር መረጃ</string>
+    <string name="menu_year">የአመት መረጃ</string>
+    <string name="invalid_number_format">የተሳሳተ ቁጥር ቅርጸት</string>
+
+
+    <!-- Strings for MainActivity2 errors and PDF export -->
+    <string name="error_block_required">ብሎክ ያስፈልጋል!</string>
+    <string name="no_data_found">መረጃ አልተገኘም</string>
+    <string name="export_filter">የማውጫ ማጣሪያ</string>
+    <string name="pdf_saved">ፒዲኤፍ በተሳካ ሁኔታ ተዘጋጅቷል</string>
+    <string name="error_saving_pdf">ፒዲኤፍ ማዘጋጀት ላይ ስህተት</string>
+</resources>

@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_all"
+        android:title="@string/menu_all" />
+    <item
+        android:id="@+id/menu_day"
+        android:title="@string/menu_day" />
+    <item
+        android:id="@+id/menu_week"
+        android:title="@string/menu_week" />
+    <item
+        android:id="@+id/menu_month"
+        android:title="@string/menu_month" />
+    <item
+        android:id="@+id/menu_year"
+        android:title="@string/menu_year" />
+</menu>

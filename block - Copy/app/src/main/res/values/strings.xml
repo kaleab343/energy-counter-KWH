@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">መላ</string>
+    <string name="search_property">Search Property</string>
+    <string name="enter_block">Enter block and house number to search</string>
+    <string name="block_house_number">Block/House Number</string>
+    <string name="search_results">Search Results</string>
+    <string name="payment">Payment</string>
+    <string name="required">Required</string>
+    <string name="no_records_found">No records found</string>
+    <string name="switch_language">Switch Language</string>
+    <string name="history">History</string>
+    <string name="block_management">Block Management</string>
+    <string name="property_information">Property Information</string>
+    <string name="count">Count</string>
+    <string name="tarif">TARIF</string>
+    <string name="vat_percentage">VAT (%)</string>
+    <string name="additional_payments_birr">Additional Payments (Birr)</string>
+    <string name="clear">Clear</string>
+    <string name="submit">Submit</string>
+    <string name="block_must_start">Block/House number must start with 355/</string>
+    <string name="block_range_error">Number must be between 01 and 66</string>
+
+    <string name="invalid_number_format">Invalid number format</string>
+
+
+    <!-- New strings for popup menu & download icon -->
+    <string name="download_pdf">Download PDF</string>
+    <string name="menu_all">All data</string>
+    <string name="menu_day">Today data</string>
+    <string name="menu_week">Week data</string>
+    <string name="menu_month">Month data</string>
+    <string name="menu_year">Year data</string>
+
+    <!-- Strings for MainActivity2 errors and PDF export -->
+    <string name="error_block_required">Block is required!</string>
+    <string name="no_data_found">No data found</string>
+    <string name="export_filter">Export Filter</string>
+    <string name="pdf_saved">PDF saved successfully</string>
+    <string name="error_saving_pdf">Error saving PDF</string>
+</resources>
